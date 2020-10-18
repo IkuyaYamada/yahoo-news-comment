@@ -10,5 +10,10 @@
     "blog"
   ],
   "author": "Ikuya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5",
+    "startbootstrap-clean-blog": "^5.0.9"
+  }
 }
