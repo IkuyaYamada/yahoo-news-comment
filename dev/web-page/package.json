@@ -1,22 +1,16 @@
 {
-  "name": "web-page",
+  "name": "web-page-2",
   "version": "1.0.0",
-  "description": "Create a blog using Node.js",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "blog"
-  ],
-  "author": "Ikuya",
+  "author": "ikuya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.5",
-    "run": "^1.4.0",
-    "server": "^1.0.30",
-    "start": "^5.1.0",
     "startbootstrap-clean-blog": "^5.0.9"
   }
 }
